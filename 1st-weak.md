@@ -19,3 +19,14 @@
 
 ### 실습
 - [물체인식 실습](https://github.com/sejong-rcv/VisualRecognition/blob/master/1%EC%A3%BC%EC%B0%A8-%EC%8B%A4%EC%8A%B51.md)
+
+
+## 2주차: 지역불변특징량 기반 파노라마 스티칭/오토스티칭
+### 이론
+- 7-4. 웹과 모바일 응용
+
+
+### 실습
+- [파노라마스치팅](https://github.com/sejong-rcv/VisualRecognition/blob/master/1%EC%A3%BC%EC%B0%A8-%EC%8B%A4%EC%8A%B52.md)
+- [오토스티팅](https://github.com/sejong-rcv/VisualRecognition/blob/master/1%EC%A3%BC%EC%B0%A8-%EC%8B%A4%EC%8A%B53.md)
+
