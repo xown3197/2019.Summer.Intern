@@ -1,10 +1,13 @@
 
   
-## 프로그램운영안   
+### 프로그램운영안   
 https://github.com/sejong-rcv/2019.Summer.Intern/blob/master/Schedule.md
 
 ### 개발환경 구축
-https://github.com/sejong-rcv/VisualRecognition/blob/master/1%EC%A3%BC%EC%B0%A8-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95.pdf
+- C++ 코드 개발은 반드시 아래와 같이 개발환경 구축을 통일해주세요.
+  - https://github.com/sejong-rcv/VisualRecognition/blob/master/1%EC%A3%BC%EC%B0%A8-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95.pdf
+- Python 개발의 경우 여러분끼리 논의 하여 표준 개발 환경을 구축해 주세요.
+
 
 
 ### 1주차
