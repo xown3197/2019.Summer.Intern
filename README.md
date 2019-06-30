@@ -9,7 +9,6 @@ https://github.com/sejong-rcv/2019.Summer.Intern/blob/master/Schedule.md
 - Python 개발의 경우 여러분끼리 논의 하여 표준 개발 환경을 구축해 주세요.
 
 
-
 ### 1주차
 https://github.com/sejong-rcv/2019.Summer.Intern/issues/3
 
