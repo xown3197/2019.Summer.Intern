@@ -1,3 +1,6 @@
+> [연구자 커리어] <br>
+  척척학사로 시작하여 독립적인연구원으로 거듭날 때까지 
+
 
   
 ## 컴퓨터비전 기초 
@@ -11,12 +14,6 @@ https://github.com/sejong-rcv/2019.Summer.Intern/issues/3
 ### 2주차
 https://github.com/sejong-rcv/2019.Summer.Intern/issues/4
 
-
-<br><br><br><br><br>
-https://github.com/sejong-rcv/2019.Summer.Intern/blob/master/Schedule.md
-
-> [연구자 커리어] <br>
-  척척학사로 시작하여 독립적인연구원으로 거듭날 때까지 
 
 ## 프로그램 운영 안
 - [첫 만남] 6월 28일(금) 오후 4시 30분~
