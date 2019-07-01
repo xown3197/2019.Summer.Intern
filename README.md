@@ -3,15 +3,18 @@
   
 ## 컴퓨터비전 기초 
 
+### github 주소
+- 멘토: 최유경(@unizard), 김지원(@socome), 김남훈(@nhk9680), 남현호(@Namhyunho), 조원(@Jo-won), 한대찬(@big-chan), 황유진(@hyj378)
+- 멘티: 김태주(@xown3197), 김병주(@nwduq), 김해린(@lini1634), 박연정(@parkyeonjeong), 신정민(@sjmin99), 이동훈(@glee1228), 함우빈(@WooBinHam)  
+
+
 ### 대상
 - 본 프로그램은 하계 학부 인턴십 학생들을 위해 것임
-  - 김태주(@xown3197), 김병주(@nwduq), 김해린(@lini1634), 박연정(@parkyeonjeong), 신정민(@sjmin99), 이동훈(@glee1228), 함우빈(@WooBinHam)  
 - 프로그램 운영과 관련된 내용은 [이슈7](https://github.com/sejong-rcv/2019.Summer.Intern/issues/7)를 확인
 - URP 운영 철학과 관련된 내용은 [이슈1](https://github.com/sejong-rcv/2019.Summer.Intern/issues/1)를 확인
 
 ### 멘토,멘티들과 소통하는 법
-- 멘션을 적극 이용하라 (@unizard, @그대의멘토) 
-  - 멘토들의 아이디는 ==> (@socome), 김남훈(@nhk9680), 남현호(@Namhyunho), 조원(@Jo-won), 한대찬(@big-chan), 황유진(@hyj378)
+- 멘션을 적극 이용하라 (@교수님, @그대의멘토) 
 - 이슈를 읽으면 "좋아요" 를 눌러주자 
 - 내가 모르면 남도 모른다. 모르면 함께 고민하자. 질문은 이슈에, 답변도 이슈에.
 - 소통할줄 모르면 성장할 수 없다. 혼자하고 싶으면 퇴실 후 도서관으로, 함께하고 싶으면 함께 노를 저어라.
