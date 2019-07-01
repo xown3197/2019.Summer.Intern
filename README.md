@@ -5,6 +5,7 @@
 
 ### 대상
 - 본 프로그램은 하계 학부 인턴십 학생들을 위해 것임
+  - 김태주(@xown3197), 김병주(@nwduq), 김해린(@lini1634), 박연정(@parkyeonjeong), 신정민(@sjmin99), 이동훈(@glee1228), 함우빈(@WooBinHam)  
 - 프로그램 운영과 관련된 내용은 [이슈7](https://github.com/sejong-rcv/2019.Summer.Intern/issues/7)를 확인
 - URP 운영 철학과 관련된 내용은 [이슈1](https://github.com/sejong-rcv/2019.Summer.Intern/issues/1)를 확인
 
