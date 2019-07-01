@@ -5,7 +5,7 @@
 
 ### 대상
 - 본 프로그램은 하계 학부 인턴십 학생들을 위해 것임
-- 프로그램 운영과 관련된 내용은 [이슈](https://github.com/sejong-rcv/2019.Summer.Intern/issues/6)를 확인
+- 프로그램 운영과 관련된 내용은 [이슈7](https://github.com/sejong-rcv/2019.Summer.Intern/issues/7)를 확인
 
 ### 소통하는 법
 - 멘션을 적극 이용하라 (@unizard) 
