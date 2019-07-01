@@ -6,6 +6,7 @@
 ### 대상
 - 본 프로그램은 하계 학부 인턴십 학생들을 위해 것임
 - 프로그램 운영과 관련된 내용은 [이슈7](https://github.com/sejong-rcv/2019.Summer.Intern/issues/7)를 확인
+- URP 운영 철학과 관련된 내용은 [이슈1](https://github.com/sejong-rcv/2019.Summer.Intern/issues/1)를 확인
 
 ### 멘토,멘티들과 소통하는 법
 - 멘션을 적극 이용하라 (@unizard, @그대의멘토) 
