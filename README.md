@@ -35,6 +35,9 @@
 | 1주차 | 지역불변특징량을 이용한 물체인식 | [강의안](https://www.dropbox.com/s/nixwm5t9s11vwej/CVOR.pdf?dl=0), [이론/실습자료](https://github.com/sejong-rcv/2019.Summer.Intern/issues/8)
 | 2주차 | 지역불변특징량을 이용한 파노라마스티칭 | [강의안](https://www.dropbox.com/s/nixwm5t9s11vwej/CVOR.pdf?dl=0), [이론/실습자료](https://github.com/sejong-rcv/2019.Summer.Intern/issues/9)
 
+> 3주차의 경우, 학부연구인턴들과 논의 하여 학부연구생들의 RCV Summer School 참석 여부 조사 후 결정 예정
+
+
 ###  학부인턴들의 To do List
 - (필수) 관련 챕터 읽기 
 - (필수) 실습 문제 코딩
