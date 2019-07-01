@@ -32,4 +32,11 @@
 | 1주차 | 지역불변특징량을 이용한 물체인식 | [강의안](https://www.dropbox.com/s/nixwm5t9s11vwej/CVOR.pdf?dl=0), [이론/실습자료](https://github.com/sejong-rcv/2019.Summer.Intern/issues/3)
 | 2주차 | 지역불변특징량을 이용한 파노라마스티칭 | [강의안](https://www.dropbox.com/s/nixwm5t9s11vwej/CVOR.pdf?dl=0), [이론/실습자료](https://github.com/sejong-rcv/2019.Summer.Intern/issues/4)
 
+###  학부인턴들의 To do List
+- (필수) 관련 챕터 읽기 
+- (필수) 실습 문제 코딩
+-  관련 논문 읽기 
+    - (필수) 각 연구들의 방법론과 장단점 요약하기
+    - (옵션) 각 연구들 구현하기
+- (옵션) 관련 논문 서베이
 
