@@ -20,10 +20,13 @@
 - OpenCV
 - 교수님 강의안
 
-### 개발환경
+### 실습 개발환경
+- OpenCV 를 활용한 실습
 - C++ 혹은 Python 중 선택
   - [C++ 개발 환경 구축하기](https://github.com/sejong-rcv/VisualRecognition/blob/master/1%EC%A3%BC%EC%B0%A8-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95.pdf)
   - Python 개발 환경은 스스로 구축 후 개발 환경 구축 기록 이슈에 남기기
+- 참고할만한 OpenCV 강좌
+  - [인프런](https://www.inflearn.com/course/opencv-lecture/#)
 
 ### 스터디 & 실습 내용
 
