@@ -50,4 +50,5 @@
 - 멘토: 최유경(@unizard), 김지원(@socome), 김남훈(@nhk9680), 남현호(@Namhyunho), 조원(@Jo-won), 한대찬(@big-chan), 황유진(@hyj378)
 - 멘티: 김태주(@xown3197), 김병주(@nwduq), 김해린(@lini1634), 박연정(@parkyeonjeong), 신정민(@sjmin99), 이동훈(@glee1228), 함우빈(@WooBinHam)  
 
+### good! 
 
