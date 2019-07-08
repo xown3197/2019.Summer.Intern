@@ -10,5 +10,4 @@
 | 주차 | 학습 내용 | 연구원별 자료 |
 |:--:|:--:|:--:|
 | 1주차 | 지역불변특징량을 이용한 물체인식 | 최유경([코드](https://github.com/sejong-rcv/2019.Summer.Intern/blob/master/1%EC%A3%BC%EC%B0%A8%EC%BD%94%EB%93%9C/1%EC%A3%BC%EC%9E%90%EC%8B%A4%EC%8A%B5_%EC%B5%9C%EC%9C%A0%EA%B2%BD.py),[설명](https://github.com/sejong-rcv/2019.Summer.Intern/blob/master/1%EC%A3%BC%EC%B0%A8%EC%BD%94%EB%93%9C/1%EC%A3%BC%EC%B0%A8%EC%8B%A4%EC%8A%B5_%EC%B5%9C%EC%9C%A0%EA%B2%BD.md))
-| 2주차 | 지역불변특징량을 이용한 파노라마스티칭 | 
 
